@@ -1,6 +1,6 @@
 <template>
   <div>
-      Hello Vue
+      Hello World
   </div>
 </template>
 
@@ -13,3 +13,4 @@ export default {
 <style>
 
 </style>
+ 
